@@ -15,7 +15,7 @@
 
 ~~~shell
 # 克隆代码
-https://github.com/ILkUVayne/cfsthm_app.git
+git clone https://github.com/ILkUVayne/cfsthm_app.git
 # 安装依赖
 npm install
 ~~~
